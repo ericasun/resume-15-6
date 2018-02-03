@@ -55,9 +55,9 @@
         },
         //绑定事件
         bindEvents:function(){
-            this.form.addEventListener('submit',function(e){
+            this.form.addEventListener('submit',(e)=>{
                 e.preventDefault()
-                //this.saveMessage()
+                this.saveMessage()
             })
         },
         saveMessage:function(){
