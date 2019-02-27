@@ -3,273 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1685f4b2-7256-49fd-848c-ce5ea244ea5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/auto-slide-up.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/auto-slide-up.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/init-swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/init-swiper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/smoothly-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/smoothly-navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/sticky-topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/sticky-topbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/pbjs.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/pbjs.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/window-size.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/window-size.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ascli/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ascli/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ascli/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ascli/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ascli/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ascli/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ascli/alphabet/straight.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ascli/alphabet/straight.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ascli/ascli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ascli/ascli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ascli/tests/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ascli/tests/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/dist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/dist/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/dist/bytebuffer-dataview.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/dist/bytebuffer-dataview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/dist/bytebuffer-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/dist/bytebuffer-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/dist/bytebuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/dist/bytebuffer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/externs/bytebuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/externs/bytebuffer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/externs/minimal-env.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/externs/minimal-env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/jsdoc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/jsdoc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/scripts/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/scripts/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/bytebuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/bytebuffer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/base64.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/base64.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/binary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/binary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/debug.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/hex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/hex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/base64.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/base64.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/binary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/binary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/debug.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/hex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/hex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/utf8.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/impl/utf8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/utf8.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/encodings/utf8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/macros.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/macros.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/append.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/append.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/assert.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/assert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/capacity.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/capacity.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/clear.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/clear.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/clone.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/clone.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/compact.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/compact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/copy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/ensureCapacity.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/ensureCapacity.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/fill.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/fill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/flip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/flip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/mark.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/mark.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/order.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/prepend.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/prepend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/printDebug.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/printDebug.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/remaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/remaining.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/reset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/reset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/resize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/reverse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/reverse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/skip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/skip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/slice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/accessor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/accessor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/allocate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/allocate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/concat.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/concat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/isByteBuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/isByteBuffer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/type.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/static/wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/toBuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/toBuffer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/toString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/methods/toString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/bytes/bitset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/bytes/bitset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/bytes/bytes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/bytes/bytes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/floats/float32.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/floats/float32.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/floats/float64.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/floats/float64.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/floats/ieee754.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/floats/ieee754.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int16.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int16.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int32.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int32.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int64.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int64.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int8.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/ints/int8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/cstring.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/cstring.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/istring.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/istring.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/utf8string.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/utf8string.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/vstring.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/strings/vstring.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/varints/varint32.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/varints/varint32.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/varints/varint64.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/types/varints/varint64.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/wrap-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/wrap-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/src/wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/src/wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/tests/bench.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/tests/bench.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bytebuffer/tests/suite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytebuffer/tests/suite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/colour.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/colour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/examples/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/examples/example.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/examples/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/examples/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/examples/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/examples/example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/externs/colour.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/externs/colour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/externs/minimal-env.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/externs/minimal-env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/colour/tests/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colour/tests/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-emitter/History.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-emitter/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-emitter/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-emitter/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime-core.browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime-core.browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime-core.weapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime-core.weapp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime.browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime.browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime.weapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-realtime/dist/realtime.weapp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av-live-query-weapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av-live-query-weapp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av-live-query.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av-live-query.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av-weapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av-weapp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/leancloud-storage/dist/av.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/dist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/dist/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/dist/long.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/dist/long.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/externs/long.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/externs/long.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/jsdoc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/jsdoc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/scripts/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/scripts/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/src/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/src/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/src/long.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/src/long.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/src/wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/src/wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/tests/goog.math.long.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/tests/goog.math.long.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/long/tests/suite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/long/tests/suite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/md5/md5.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/md5/md5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/optjs/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/optjs/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/optjs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/optjs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/optjs/opt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/optjs/opt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/optjs/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/optjs/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/bin/pbjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/bin/pbjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/sources/binary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/sources/binary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/sources/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/sources/json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/sources/proto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/sources/proto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/amd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/commonjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/commonjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/proto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/targets/proto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/cli/pbjs/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/dist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf-light.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf-light.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/dist/protobuf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/docs/ProtoBuf.Element.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/docs/ProtoBuf.Element.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/docs/ProtoBuf.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/docs/ProtoBuf.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/json.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/json.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/json.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/json.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/json.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/protoify/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/www/example.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/www/example.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/examples/websocket/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/externs/fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/externs/fs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/externs/protobuf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/externs/protobuf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/jsdoc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/jsdoc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/scripts/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/scripts/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder/Enum.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder/Enum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder/Message.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder/Message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Builder/Service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/DotProto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/DotProto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/DotProto/Parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/DotProto/Parser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/DotProto/Tokenizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/DotProto/Tokenizer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Lang.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Lang.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Map.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Element.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Enum.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Enum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Enum/Value.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Enum/Value.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Extension.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Extension.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message/ExtensionField.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message/ExtensionField.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message/Field.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message/Field.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message/OneOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Message/OneOf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Namespace.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Namespace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Service/Method.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Service/Method.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Service/RPCMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/Service/RPCMethod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/T.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Reflect/T.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/ProtoBuf/Util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/google/protobuf/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/google/protobuf/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/google/protobuf/descriptor.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/google/protobuf/descriptor.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/protobuf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/protobuf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/src/wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/src/wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/PingExample.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/PingExample.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/T139.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/T139.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/T263.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/T263.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/annotations.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/annotations.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/bench.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/bench.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/bench.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/bench.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/camelcase.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/camelcase.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/comments.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/comments.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/complex.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/complex.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/custom-options.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/custom-options.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/custom-options.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/custom-options.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/common.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/common.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/dep1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/dep1.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/dep2.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/dep2.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/main.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/dupimport/main.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/example1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/example1.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/example1u.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/example1u.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/example2.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/example2.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/example3.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/example3.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/example4.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/example4.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/example5.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/example5.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/extend.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/extend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/extend.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/extend.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/field_name_same_as_package/main.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/field_name_same_as_package/main.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/field_name_same_as_package/sub.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/field_name_same_as_package/sub.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/google/protobuf/descriptor.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/google/protobuf/descriptor.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/groups.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/groups.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/importRoot/file1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/importRoot/file1.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/importRoot/file2.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/importRoot/file2.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/importRoot/file3.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/importRoot/file3.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_a.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_a.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_a_single_quote.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_a_single_quote.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_b.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_b.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_common.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/import_common.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports-toplevel.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports-toplevel.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports-weak.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports-weak.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/imports.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/inner.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/inner.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/negid.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/negid.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/nodeunit-browser/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/nodeunit-browser/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/nodeunit-browser/nodeunit.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/nodeunit-browser/nodeunit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/nodeunit-browser/nodeunit.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/nodeunit-browser/nodeunit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/numberformats.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/numberformats.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/oneof.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/oneof.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/optional.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/optional.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/options.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/options.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/options.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/options.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/packed.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/packed.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto2js/Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto2js/Bar.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto2js/Bar.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto2js/Bar.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto2js/Foo.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto2js/Foo.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto3.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/proto3.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/protobufnet.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/protobufnet.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/repeated.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/repeated.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/setarray.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/setarray.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/string_single_quote.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/string_single_quote.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/suite.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/suite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/suite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/suite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/toplevel.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/toplevel.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/protobufjs/tests/x64.proto" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protobufjs/tests/x64.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/superagent/.zuul.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/superagent/.zuul.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/superagent/superagent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/superagent/superagent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uuid/v1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uuid/v1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -291,43 +25,74 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="3" />
+          <entry key="css" value="4" />
+          <entry key="html" value="3" />
+          <entry key="jpg" value="10" />
+          <entry key="js" value="6" />
+          <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="3" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="10" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="53" />
+          <entry key="css" value="25" />
+          <entry key="html" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="53" />
+          <entry key="CSS" value="25" />
+          <entry key="HTML" value="123" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="108" column="18" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
+            <state relative-caret-position="254">
+              <caret line="164" column="34" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#section#2;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="133" column="58" lean-forward="true" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>swiper-slide</find>
+      <find>swiper-wrapper</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -336,6 +101,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/main.css" />
       </list>
     </option>
   </component>
@@ -433,7 +199,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="52" />
+    <option name="y" value="34" />
     <option name="width" value="1440" />
     <option name="height" value="793" />
   </component>
@@ -452,6 +219,17 @@
             <path>
               <item name="work37-高级：给简历加个数据库" type="b2602c69:ProjectViewProjectNode" />
               <item name="work37-高级：给简历加个数据库" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work37-高级：给简历加个数据库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work37-高级：给简历加个数据库" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="works" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work37-高级：给简历加个数据库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work37-高级：给简历加个数据库" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -465,6 +243,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/works" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -489,15 +272,15 @@
       <option name="presentableId" value="Default" />
       <updated>1547477074167</updated>
       <workItem from="1547477075478" duration="127000" />
-      <workItem from="1551274286687" duration="191000" />
+      <workItem from="1551274286687" duration="1600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318000" />
+    <option name="totallyTimeSpent" value="1727000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="793" extended-state="0" />
+    <frame x="52" y="34" width="1440" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -526,9 +309,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/sticky-topbar.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/init-swiper.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -539,23 +319,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/smoothly-navigation.js">
+    <entry file="file://$PROJECT_DIR$/img/works/nav-page.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/works/canvas.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/works/apple-style-slides.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/message.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-531">
           <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/smoothly-navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sticky-topbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rs-cover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/works/keyborad.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="108" column="18" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
+        <state relative-caret-position="254">
+          <caret line="164" column="34" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ol#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#section#2;n#body#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="133" column="58" lean-forward="true" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
         </state>
       </provider>
     </entry>
