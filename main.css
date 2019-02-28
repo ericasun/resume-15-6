@@ -112,7 +112,8 @@ body > main .downloadResume:hover {
   box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.2);
 }
 
-.selfIntroduction { max-width: 940px; margin-left: auto; margin-right: auto; text-align: center; font-family: kai; line-height: 1.8; font-size: 18px; }
+.selfIntroduction { max-width: 940px; margin-left: auto; margin-right: auto; text-align: center; font-family: kai;
+  line-height: 1.8; font-size: 18px; }
 
 section.skills,
 section.portfolio{ max-width: 940px; margin-left: auto; margin-right: auto; margin-top: 60px; }
